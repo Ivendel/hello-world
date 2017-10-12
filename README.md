@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+My dog is the most beautiful animal I've ever seen on Earth.
